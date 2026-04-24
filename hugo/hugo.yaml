@@ -19,7 +19,6 @@ module:
 
 params:
   color: "linen"
-  twitter: "lowe"
   github: "lowe"
   instagram: "louieladn"
   avatar: "ladiona.louie@gmail.com"
@@ -39,6 +38,9 @@ menu:
       name: "About"
       url: "/about/"
       weight: 10
+    - identifier: "today-learn"
+      name: "TIL"
+      url: "/today-learn/"
     - identifier: "contact"
       name: "Contact"
       url: "/contact/"
