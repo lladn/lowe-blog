@@ -40,6 +40,8 @@ params:
       url: "https://instagram.com/louieladn"
     - name: "rss"
       url: "https://ladiona.louie.site"
+    - name: buymeacoffee
+      url: "https://buymeacoffee.com/louieladiona"
   fuseOpts:
     isCaseSensitive: false
     shouldSort: true
